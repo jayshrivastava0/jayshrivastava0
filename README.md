@@ -1,3 +1,4 @@
+![logo](https://github.com/jayshrivastava0/jayshrivastava0/blob/main/ai-banner.jpg)
 <h1 align="center">Hi 👋, I'm Jay Shrivastava</h1>
 <h3 align="center">I used to be a seeker of answers, but now I'm a data scientist. I guess you could say I've found my calling.</h3>
 
