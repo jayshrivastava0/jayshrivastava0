@@ -6,13 +6,13 @@
 <img align = "right" alt = "Machine Learning" width = "500" height = "300" src = "https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 
 
+- 🏫 I’m a Student at **State University Of New York At Buffalo**
+
 - 🔭 I’m currently doing [Leetcode in Pyhton and C](https://github.com/jayshrivastava0/leetcode-problems)
 
 - 🌱 I’m currently learning **Computer Vision and GAN**
 
 - 👯 I’m looking to collaborate on [Machine Learning and Deep learning projects](https://github.com/jayshrivastava0/Projects)
-
-- 🏫 I’m a Student at **State University Of New York At Buffalo**
 
 - 📫 How to reach me **sujay8192@gmail.com**
 
